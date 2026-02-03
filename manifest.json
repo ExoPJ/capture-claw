@@ -1,0 +1,25 @@
+{
+  "Group": "ExoPJ",
+  "Name": "CaptureClaw",
+  "Version": "1.0.0",
+  "Description": "A mod that adds a new claw item that allows you to pick up any entity.",
+  "Authors": [
+    {
+      "Name": "ExoPJ",
+      "Email": "",
+      "Url": ""
+    },
+    {
+      "Name": "Pt_dogo",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
